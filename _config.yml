@@ -20,7 +20,7 @@ author:
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-# theme: minima
+theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
@@ -29,15 +29,15 @@ author:
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
-# sass:
-#   quiet_deps: true
-#   silence_deprecations: [import]
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 
 # Minima-specific settings (applicable to Minima v3 and above only)
@@ -54,14 +54,14 @@ author:
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
-#   skin: auto
+  skin: auto
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
-#   nav_pages:
-#     - about.md
+  nav_pages:
+    - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
@@ -69,7 +69,7 @@ author:
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
 #     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
-#   date_format: "%b-%d-%Y"
+  date_format: "%b-%d-%Y"
 #
 #   Social Media Links.
 #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
@@ -89,4 +89,4 @@ author:
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-#   hide_site_feed_link: false
+  hide_site_feed_link: true
