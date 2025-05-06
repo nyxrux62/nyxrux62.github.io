@@ -46,7 +46,7 @@ sass:
 #  *All described config keys below should be nested under the top-level
 #   `minima` key.*
 #
-# minima:
+minima:
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
 #     * dark               Dark variant of the classic skin.
@@ -64,12 +64,12 @@ sass:
     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
-#   show_excerpts: false
+  show_excerpts: false
 #
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
 #     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
-  date_format: "%b-%d-%Y"
+  date_format: "%Y-%b-%d"
 #
 #   Social Media Links.
 #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
@@ -77,7 +77,7 @@ sass:
 #       * title    Tooltip rendered on hovering over icon.
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
-#   social_links:
+  # social_links:
 #     - title: Minima Theme repository at GitHub
 #       icon: github
 #       url: "https://github.com/jekyll/minima"
