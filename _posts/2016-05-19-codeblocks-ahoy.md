@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 테스트 타이틀
 ---
 
 An article with various blocks of highlighted code snippets.

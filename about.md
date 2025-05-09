@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+nyxrux62
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+대학교수. 인디게임개발자, 웹/앱 개발자
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+rehomik@gmail.com
 
+### 관심 분야
 
-[jekyll-organization]: https://github.com/jekyll
+- 게임 개발 과정에서 생성형 AI 활용.
+- 게임 시스템과 생성형 AI의 결합.

@@ -1,11 +1,11 @@
 # Site-wide settings
 # ------------------
 #
-title: nyxrux62 blog
+title: nyxrux62
 #
 author:
   name: nyxrux62
-#   email: your-email@domain.com
+  email: rehomik@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -37,7 +37,6 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
-
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
 #
@@ -60,7 +59,6 @@ minima:
 #     the order they should be rendered.
   nav_pages:
     - about.md
-    - articles.md
 #
 #   Set to `true` to show excerpts on the homepage.
   show_excerpts: false
@@ -68,7 +66,7 @@ minima:
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
 #     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
-  date_format: "%Y-%b-%d"
+  date_format: "%b-%d-%Y"
 #
 #   Social Media Links.
 #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
