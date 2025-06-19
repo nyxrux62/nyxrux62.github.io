@@ -26,6 +26,10 @@ theme: minima
 #   do not affect your site adversely.
 # remote_theme: jekyll/minima@d4d779a
 #
+
+google_analytics:
+  id: G-CNMWED1G5P
+
 # Minima requires the following plugins:
 plugins:
  - jekyll-feed
