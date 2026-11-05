@@ -11,6 +11,7 @@ const monoFallbacks = [
 
 export default defineSageConfig({
   typography: { fallbacks: { mono: monoFallbacks } },
+  citation: { enabled: false },
   site: {
     url: "https://nyxrux62.github.io/",
     title: "nyxrux62",
