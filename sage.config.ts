@@ -25,8 +25,6 @@ export default defineSageConfig({
   },
   home: {
     title: "nyxrux62",
-    intro:
-      "대학에서 학생들을 가르치고, 인디게임을 만들고, 취미로 웹앱과 모바일 앱을 개발합니다. 새로운 기술을 파악하며 남기는 기록입니다.",
   },
   posts: { perPage: 8, perIndex: 6, scheduledPostMargin: 15 * 60 * 1000 },
   features: {
