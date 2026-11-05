@@ -1,0 +1,9 @@
+/* 한글 보정 (폰트는 테마 기본 + OS 한글 폰트 대체) */
+
+html:lang(ko) {
+  /* 단어 중간에서 줄바꿈하지 않기. 긴 URL 등은 넘칠 때만 끊는다. */
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  /* 한글 폰트에는 이탤릭이 없어 브라우저가 억지로 기울인다. 영문은 테마 이탤릭 그대로. */
+  font-synthesis-style: none;
+}
