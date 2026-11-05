@@ -1,8 +1,10 @@
 ---
-title: "AI 서비스 8종 사용 후기"
+title: AI 서비스 8종 사용 후기
 pubDatetime: 2025-08-09T09:00:00+09:00
-description: "Gemini, ChatGPT, Claude부터 Cursor, Figma, Midjourney까지 AI 서비스 8종을 실제로 써 본 후기."
-tags: [AI, 생산성]
+description: Gemini, ChatGPT, Claude부터 Cursor, Figma, Midjourney까지 AI 서비스 8종을 실제로 써 본 후기.
+tags:
+  - AI
+  - 생산성
 share: true
 ---
 저는 게임 개발을 주력으로 하는 프로그래머입니다. 최근 AI 트렌드를 놓치지 않고 따라가기 위해 다양한 AI 도구들을 사용해 보며 느낀 점들을 정리했습니다. Gemini, ChatGPT, Claude부터 Cursor, Figma, Midjourney 등 여러 툴이 과연 실제 생산성을 얼마나 높여줄 수 있는지, 그리고 바쁜 일상 속에서 어떻게 개발 시간을 확보할 수 있었는지 그 경험을 공유하고자 합니다.
